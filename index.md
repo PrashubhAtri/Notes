@@ -2,12 +2,6 @@
 layout: home
 ---
 
-Browse my notes [here](/notes).
+# Welcome to My Notes!
 
-## Math
-- [Linear Algebra](/notes/maths/linearalgebra)
-- [Calculus](/notes/maths/calculus)
-
-## Programming
-- [Python](/notes/programming/python)
-- [Git](/notes/programming/git)
+Browse my notes [here]({{ site.baseurl }}/notes).

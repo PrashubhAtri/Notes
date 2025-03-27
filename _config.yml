@@ -1,8 +1,5 @@
 theme: minima
 title: My Notes
 description: A collection of my notes.
-nav-links:
-  - name: Home
-    url: /
-  - name: Notes
-    url: /notes/
+baseurl: "/Notes"  # Critical for repo-named sites!
+url: "https://<your-username>.github.io"
