@@ -5,8 +5,8 @@ layout: home
 Browse my notes [here](/notes).
 
 ## Math
-- [Algebra](/notes/math/algebra)
-- [Calculus](/notes/math/calculus)
+- [Linear Algebra](/notes/maths/linearalgebra)
+- [Calculus](/notes/maths/calculus)
 
 ## Programming
 - [Python](/notes/programming/python)
