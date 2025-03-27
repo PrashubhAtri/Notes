@@ -2,8 +2,6 @@
 layout: home
 ---
 
-# Notes by Prashubh Atri
-
 Browse my notes [here](/notes).
 
 ## Math
